@@ -17,12 +17,13 @@
 - ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 - ![Zorin](https://img.shields.io/badge/Zorin%20Linux-1793D1?logo=zorin-linux&logoColor=fff&style=for-the-badge)<br>
 
-
-## What I learned &#128373;
+  
+  ## About In This Project &#11088;
 <ul>
-  <li>praticed more about responsive</li>
-  <li>more about page libaries</li>
-  <li>paraticed transistion</li>
+  <li>In this project is most responsive every 100px</li>
+  <li> best ui</li>
+  <li>I using in this project Swiper.js</li>
+  <li>scroll effects</li>
   </ul><br>
   
   
