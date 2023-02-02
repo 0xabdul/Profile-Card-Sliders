@@ -24,6 +24,7 @@
   <li> best ui</li>
   <li>I using in this project Swiper.js</li>
   <li>scroll effects</li>
+  <li>responsive upto 200px</li>
   </ul><br>
   
   
