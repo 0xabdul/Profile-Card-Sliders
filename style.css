@@ -1,0 +1,249 @@
+@import url('https://fonts.googleapis.com/css2?family=Andika:wght@700&family=Archivo:wght@600&family=Bakbak+One&family=Big+Shoulders+Display:wght@700&family=Dancing+Script&family=Fraunces:opsz,wght@9..144,500;9..144,700&family=Inter:wght@400;700&family=Josefin+Sans:wght@200;400&family=Josefin+Slab&family=Karla:wght@400;700&family=Kumbh+Sans:wght@400;700&family=League+Spartan:wght@400;700&family=Lexend+Deca:wght@400;700&family=Lobster&family=Lora:wght@700&family=Michroma&family=Montserrat+Alternates&family=Montserrat:ital,wght@0,200;0,300;0,400;0,500;1,200;1,300&family=Nanum+Gothic&family=Open+Sans&family=Outfit:wght@400;600;700&family=Poppins:wght@200;300;400;600&family=Red+Hat+Display:wght@500;900&family=Roboto+Condensed:wght@700&family=Rowdies&family=Satisfy&family=Seymour+One&family=Signika+Negative:wght@300&family=Space+Grotesk:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Andika:wght@700&family=Archivo:wght@600&family=Bakbak+One&family=Big+Shoulders+Display:wght@700&family=Dancing+Script&family=Fraunces:opsz,wght@9..144,500;9..144,700&family=Inter:wght@400;700&family=Josefin+Sans:wght@200&family=Josefin+Slab&family=Karla:wght@400;700&family=Kumbh+Sans:wght@400;700&family=League+Spartan:wght@400;700&family=Lexend+Deca:wght@400;700&family=Lobster&family=Lora:wght@700&family=Michroma&family=Montserrat+Alternates&family=Montserrat:ital,wght@0,200;0,300;0,400;0,500;1,200;1,300&family=Nanum+Gothic&family=Open+Sans&family=Outfit:wght@400;600;700&family=Poppins:wght@200;300;400;600&family=Red+Hat+Display:wght@500;900&family=Roboto+Condensed:wght@700&family=Rowdies&family=Satisfy&family=Seymour+One&family=Signika+Negative:wght@300&family=Space+Grotesk:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Andika:wght@700&family=Archivo:wght@600&family=Bakbak+One&family=Big+Shoulders+Display:wght@700&family=Dancing+Script&family=Fraunces:opsz,wght@9..144,500;9..144,700&family=Inter:wght@400;700&family=Josefin+Sans:wght@300&family=Josefin+Slab&family=Karla:wght@400;700&family=Kumbh+Sans:wght@400;700&family=League+Spartan:wght@400;700&family=Lexend+Deca:wght@400;700&family=Lobster&family=Lora:wght@700&family=Michroma&family=Montserrat+Alternates&family=Montserrat:ital,wght@0,200;0,300;0,400;0,500;1,200;1,300&family=Nanum+Gothic&family=Open+Sans&family=Outfit:wght@400;600;700&family=Poppins:wght@200;300;400;600&family=Red+Hat+Display:wght@500;900&family=Roboto+Condensed:wght@700&family=Rowdies&family=Satisfy&family=Seymour+One&family=Signika+Negative:wght@300&family=Space+Grotesk:wght@300&display=swap');
+html,
+    body {
+      position: relative;
+      height: 100%;
+    }
+
+    body {
+      background:whitesmoke;
+      font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+      font-size: 14px;
+      color: #000;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      background:whitesmoke;
+      font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+      font-size: 14px;
+      color: #000;
+      margin: 0;
+      padding: 0;
+    }
+
+    html,
+    body {
+      position: relative;
+      height: 100%;
+    }
+
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .swiper {
+      width: 440px;
+      height: 520px;
+    }
+
+    .swiper-slide {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border-radius: 18px;
+      font-size: 22px;
+      font-weight: bold;
+      color: #fff;
+      box-shadow:1px 2px 50px 1px lightgray;
+    }
+    .swiper-slide{
+      background-color:white;
+    }
+    .card-1{
+      border-style:solid;
+      border-color:black;
+      padding:80px;
+    padding-left:500px;
+    padding-right:500px;
+    margin-top:-700px;
+    background-color:#3185fc;
+    border-bottom-width:0px;
+    border-top-width:0px;
+    }
+    .card-2{
+    background-color:#b74f6f;
+    border-style:solid;
+    border-color:black;
+    padding:80px;
+  padding-left:500px;
+  padding-right:500px;
+  margin-top:-700px;
+  border-bottom-width:0px;
+  border-top-width:0px;
+    }
+    .card-3{
+      background-color:rgb(92, 82, 82);
+      border-style:solid;
+      border-color:black;
+      padding:80px;
+    padding-left:500px;
+    padding-right:500px;
+    margin-top:-700px;
+    border-bottom-width:0px;
+    border-top-width:0px;
+      }
+      .card-4{
+        background-color:#3B5998;
+        border-style:solid;
+        border-color:black;
+        padding:80px;
+      padding-left:500px;
+      padding-right:500px;
+      margin-top:-700px;
+      border-bottom-width:0px;
+      border-top-width:0px;
+        }
+        .card-5{
+          background-color:#e08e45;
+          border-style:solid;
+          border-color:black;
+          padding:80px;
+        padding-left:500px;
+        padding-right:500px;
+        margin-top:-700px;
+        border-bottom-width:0px;
+        border-top-width:0px;
+          }
+          .card-6{
+            background-color:rgb(117, 152, 152);
+            border-style:solid;
+            border-color:black;
+            padding:80px;
+          padding-left:500px;
+          padding-right:500px;
+          margin-top:-700px;
+          border-bottom-width:0px;
+          border-top-width:0px;
+            }
+            .card-7{
+              background-color:#c65c67;
+              border-style:solid;
+              border-color:black;
+              padding:80px;
+            padding-left:500px;
+            padding-right:500px;
+            margin-top:-700px;
+            border-bottom-width:0px;
+            border-top-width:0px;
+              }
+              .card-8{
+                background-color:#a76ba3;
+                border-style:solid;
+                border-color:black;
+                padding:80px;
+              padding-left:500px;
+              padding-right:500px;
+              margin-top:-700px;
+              border-bottom-width:0px;
+              border-top-width:0px;
+                }
+                .card-9{
+                  background-color:#55bb9e;
+                  border-style:solid;
+                  border-color:black;
+                  padding:80px;
+                padding-left:500px;
+                padding-right:500px;
+                margin-top:-700px;
+                border-bottom-width:0px;
+                border-top-width:0px;
+                }
+img{
+   height:150px;
+   margin-top:550px;
+   border-radius:50%;
+   width:150px;
+   box-shadow:1px 1px 30px 1px wheat;
+}
+html,body{
+  overflow-x:hidden;
+}
+h1{
+  font-size:30px;
+  margin-left:35px;
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight:400;
+  
+ 
+}
+h2{
+  font-size:20px;
+  margin-left:20px;
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight:300;
+
+}
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+  text-decoration:none;
+  padding:5px;
+  border-radius:50%;
+  height:20px;
+  width:20px;
+  text-align: center;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+  text-decoration:none;
+  padding:5px;
+  border-radius:50%;
+  height:20px;
+  width:20px;
+  text-align: center;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+  text-decoration:none;
+  padding:5px;
+  border-radius:50%;
+  height:20px;
+  width:20px;
+  text-align: center;
+}
+.icons{
+  word-spacing:20px;
+  margin-left:5px;
+  margin-top:30px;
+}
+@media (max-width:570px) {
+  .swiper {
+    width: 350px;
+    height: 450px;
+  }
+  img{
+    margin-top:700px;
+ }
+}
+@media (max-width:400px) {
+  .swiper {
+    width: 300px;
+    height: 400px;
+  }
+  img{
+    height:150px;
+    margin-top:670px;
+    width:150px;
+ }
+}
+@media (max-width:320px) {
+  .swiper {
+    width: 200px;
+    height: 400px;
+  }
+  img{
+    height:150px;
+    margin-top:670px;
+    width:150px;
+ }
+}
